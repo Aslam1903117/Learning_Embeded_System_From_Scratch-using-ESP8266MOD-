@@ -35,7 +35,7 @@ This repository documents my learning journey with the ESP8266 microcontroller, 
   - Simple command interface for controlling LEDs via serial commands.
 
 ### Project 5: Temperature Sensor Interface
-- **Objective**: Interface a temperature sensor (e.g., DHT11 or DS18B20) and display readings.
+- **Objective**: Interface a temperature sensor (e.g., DHT22 or DS18B20) and display readings.
 - **Topics Covered**:
   - ADC (Analog to Digital Converter) configuration and usage (if using analog sensors).
   - Sensor interfacing and data acquisition.
